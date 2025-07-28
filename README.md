@@ -1,4 +1,4 @@
-I'm Richmond Ramil, a Software Engineer with over 4 years of experience. I specialize in both Front-end and Back-end technologies and spend most of my time building outstanding projects or recording tutorials.
+I'm Richmond Ramil, a Software Engineer with over 4 years of experience. I specialize in both Front-end and Back-end technologies and spend most of my time building outstanding projects.
 
 :mailbox: Reach me out!
 
